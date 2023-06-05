@@ -19,7 +19,7 @@ Our weather forecasting tool combines data retrieval from the OpenWeatherMap API
 
 
 ## Presentation 
-Click [here](https://drive.google.com/file/d/1xapGwI1s7ZNGe-JmZ0ALX4K1z-Q7YNq5/view) to view our presentation.
+Click [here](https://drive.google.com/file/d/1xapGwI1s7ZNGe-JmZ0ALX4K1z-Q7YNq5/view?usp=sharing) to view our presentation.
 
 ## License
 This repository is licensed under the MIT license. See the [LICENSE](https://github.com/shimjim7/Weather-forecasting-tool/blob/main/LICENSE) file for more information.
