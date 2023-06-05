@@ -73,7 +73,7 @@ def display_weather_on_map(coordinates, weather):
     maps_subscription_key = os.getenv("AZURE_MAPS_SUBSCRIPTION_KEY")
     latitude, longitude = coordinates
 
-    map_url = f"https://atlas.microsoft.com/map/static/png?subscription-key={maps_subscription_key}&api-version=1.0&center={longitude},{latitude}&zoom=10&layer=basic&height=500&width=800"
+    map_url = f"https://atlas.microsoft.com/map/static/png?subscription-key={maps_subscription_key}&api-version=1.0&center={longitude},{latitude}&zoom=8&layer=basic&height=500&width=800"
     print("Weather forecast map:")
     print(f"Weather: {weather}")
     print(map_url)
